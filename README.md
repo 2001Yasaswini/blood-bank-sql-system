@@ -17,3 +17,9 @@ GROUP BY BLOOD_TYPE;
 👩‍💻 Author
 
 Sana Venkata Yasaswini
+## 📂 Project Files
+- schema.sql → Table creation
+- insert_data.sql → Sample data
+- queries.sql → Basic SQL queries
+- advanced_queries.sql → Analytical queries
+- joins.sql → Join operations
