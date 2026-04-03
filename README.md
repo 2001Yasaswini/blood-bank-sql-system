@@ -1,25 +1,31 @@
-Blood Bank SQL Management System
-📌 Project Overview
+# 🩸 Blood Bank SQL Management System
+
+## 📌 Project Overview
 
 This project demonstrates practical SQL skills using a Blood Bank database.
 
-🛠️ Skills Covered
-DDL, DML, TCL Commands
-Joins
-Group Functions
-Analytical Functions
-📊 Sample Query
+## 🛠️ Skills Covered
+
+* DDL, DML, TCL Commands
+* Joins
+* Group Functions
+* Analytical Functions
+
+## 📊 Sample Query
 
 SELECT BLOOD_TYPE, MAX(UNITS_DONATED)
 FROM BLOOD_GROUP
 GROUP BY BLOOD_TYPE;
 
-👩‍💻 Author
+## 👩‍💻 Author
 
 Sana Venkata Yasaswini
+
 ## 📂 Project Files
-- schema.sql → Table creation
-- insert_data.sql → Sample data
-- queries.sql → Basic SQL queries
-- advanced_queries.sql → Analytical queries
-- joins.sql → Join operations
+
+* schema.sql → Table creation
+* insert_data.sql → Sample data
+* queries.sql → Basic SQL queries
+* advanced_queries.sql → Analytical queries
+* joins.sql → Join operations
+* full_practice.sql → Complete SQL syllabus coverage
